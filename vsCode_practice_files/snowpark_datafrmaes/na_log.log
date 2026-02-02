@@ -1,0 +1,581 @@
+10:33:00 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+10:33:00 - INFO - Connecting to GLOBAL Snowflake domain
+10:33:00 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+10:33:03 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657674826,
+"os.name" : Windows
+
+10:33:03 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+10:33:04 - INFO - Closing session: 5470147657674826
+10:33:04 - INFO - Canceling all running queries
+10:33:04 - INFO - Closed session: 5470147657674826
+10:33:50 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+10:33:50 - INFO - Connecting to GLOBAL Snowflake domain
+10:33:50 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+10:33:52 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670722,
+"os.name" : Windows
+
+10:33:52 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+10:33:53 - INFO - Closing session: 5470147657670722
+10:33:53 - INFO - Canceling all running queries
+10:33:54 - INFO - Closed session: 5470147657670722
+10:34:47 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+10:34:47 - INFO - Connecting to GLOBAL Snowflake domain
+10:34:47 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+10:34:49 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657674830,
+"os.name" : Windows
+
+10:34:49 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+10:34:50 - INFO - Closing session: 5470147657674830
+10:34:50 - INFO - Canceling all running queries
+10:34:51 - INFO - Closed session: 5470147657674830
+11:23:45 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:23:45 - INFO - Connecting to GLOBAL Snowflake domain
+11:23:45 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:23:47 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682978,
+"os.name" : Windows
+
+11:23:48 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:23:48 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:23:48 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:23:48 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:23:49 - INFO - Closing session: 5470147657682978
+11:23:49 - INFO - Canceling all running queries
+11:23:49 - INFO - Closed session: 5470147657682978
+11:24:41 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:24:41 - INFO - Connecting to GLOBAL Snowflake domain
+11:24:41 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:24:43 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682982,
+"os.name" : Windows
+
+11:24:44 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:44 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:24:45 - INFO - Closing session: 5470147657682982
+11:24:45 - INFO - Canceling all running queries
+11:24:45 - INFO - Closed session: 5470147657682982
+11:27:32 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:27:32 - INFO - Connecting to GLOBAL Snowflake domain
+11:27:32 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:27:34 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670726,
+"os.name" : Windows
+
+11:27:35 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:27:35 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:35 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:35 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:36 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:36 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:36 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:27:36 - INFO - Closing session: 5470147657670726
+11:27:36 - INFO - Canceling all running queries
+11:27:37 - INFO - Closed session: 5470147657670726
+11:28:00 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:28:00 - INFO - Connecting to GLOBAL Snowflake domain
+11:28:00 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:28:02 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678902,
+"os.name" : Windows
+
+11:28:02 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:28:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:03 - INFO - Closing session: 5470147657678902
+11:28:03 - INFO - Canceling all running queries
+11:28:04 - INFO - Closed session: 5470147657678902
+11:28:22 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:28:22 - INFO - Connecting to GLOBAL Snowflake domain
+11:28:22 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:28:24 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678906,
+"os.name" : Windows
+
+11:28:25 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:28:25 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:25 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:25 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:26 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:26 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:26 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:26 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:26 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:27 - INFO - Closing session: 5470147657678906
+11:28:27 - INFO - Canceling all running queries
+11:28:27 - INFO - Closed session: 5470147657678906
+11:28:53 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:28:53 - INFO - Connecting to GLOBAL Snowflake domain
+11:28:53 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:28:55 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678910,
+"os.name" : Windows
+
+11:28:56 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:56 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:28:58 - INFO - Closing session: 5470147657678910
+11:28:58 - INFO - Canceling all running queries
+11:28:58 - INFO - Closed session: 5470147657678910
+11:30:59 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:30:59 - INFO - Connecting to GLOBAL Snowflake domain
+11:30:59 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:31:01 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670730,
+"os.name" : Windows
+
+11:31:02 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:04 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:31:04 - INFO - Closing session: 5470147657670730
+11:31:04 - INFO - Canceling all running queries
+11:31:05 - INFO - Closed session: 5470147657670730
+11:33:08 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:33:08 - INFO - Connecting to GLOBAL Snowflake domain
+11:33:08 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:33:10 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657674834,
+"os.name" : Windows
+
+11:33:11 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:33:11 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:11 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:11 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:12 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:12 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:12 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:13 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:33:15 - INFO - Closing session: 5470147657674834
+11:33:15 - INFO - Canceling all running queries
+11:33:15 - INFO - Closed session: 5470147657674834
+11:37:17 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:37:17 - INFO - Connecting to GLOBAL Snowflake domain
+11:37:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:37:19 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682986,
+"os.name" : Windows
+
+11:37:20 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:20 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:22 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:37:24 - INFO - Closing session: 5470147657682986
+11:37:24 - INFO - Canceling all running queries
+11:37:24 - INFO - Closed session: 5470147657682986
+11:38:57 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:38:57 - INFO - Connecting to GLOBAL Snowflake domain
+11:38:57 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:38:59 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678914,
+"os.name" : Windows
+
+11:38:59 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:38:59 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:38:59 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:38:59 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:39:00 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:39:00 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "CITY", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:39:00 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "STATE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:39:02 - WARNING - Input value type doesn't match the target column data type, this replacement was skipped. Column Name: "TYPE", Type: StringType(), Input Value: 0, Type: <class 'int'>
+11:39:05 - INFO - Closing session: 5470147657678914
+11:39:05 - INFO - Canceling all running queries
+11:39:05 - INFO - Closed session: 5470147657678914
+11:51:32 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:51:32 - INFO - Connecting to GLOBAL Snowflake domain
+11:51:32 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:51:35 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678918,
+"os.name" : Windows
+
+11:51:35 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:51:37 - INFO - Closing session: 5470147657678918
+11:51:37 - INFO - Canceling all running queries
+11:51:37 - INFO - Closed session: 5470147657678918
+11:52:42 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:52:42 - INFO - Connecting to GLOBAL Snowflake domain
+11:52:42 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:52:45 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682990,
+"os.name" : Windows
+
+11:52:45 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:52:47 - INFO - Closing session: 5470147657682990
+11:52:47 - INFO - Canceling all running queries
+11:52:47 - INFO - Closed session: 5470147657682990
+11:53:35 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:53:35 - INFO - Connecting to GLOBAL Snowflake domain
+11:53:35 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:53:37 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678934,
+"os.name" : Windows
+
+11:53:37 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:53:39 - INFO - Closing session: 5470147657678934
+11:53:39 - INFO - Canceling all running queries
+11:53:39 - INFO - Closed session: 5470147657678934
+11:53:52 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:53:52 - INFO - Connecting to GLOBAL Snowflake domain
+11:53:52 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:53:54 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682994,
+"os.name" : Windows
+
+11:53:55 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:53:56 - INFO - Closing session: 5470147657682994
+11:53:56 - INFO - Canceling all running queries
+11:53:57 - INFO - Closed session: 5470147657682994
+11:54:25 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:54:25 - INFO - Connecting to GLOBAL Snowflake domain
+11:54:25 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:54:27 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678938,
+"os.name" : Windows
+
+11:54:27 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:54:29 - INFO - Closing session: 5470147657678938
+11:54:29 - INFO - Canceling all running queries
+11:54:29 - INFO - Closed session: 5470147657678938
+11:54:49 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:54:49 - INFO - Connecting to GLOBAL Snowflake domain
+11:54:49 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:54:51 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670738,
+"os.name" : Windows
+
+11:54:52 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:54:53 - INFO - Closing session: 5470147657670738
+11:54:53 - INFO - Canceling all running queries
+11:54:54 - INFO - Closed session: 5470147657670738
+11:55:19 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:55:19 - INFO - Connecting to GLOBAL Snowflake domain
+11:55:19 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:55:22 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670742,
+"os.name" : Windows
+
+11:55:22 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:55:24 - INFO - Closing session: 5470147657670742
+11:55:24 - INFO - Canceling all running queries
+11:55:24 - INFO - Closed session: 5470147657670742
+11:56:48 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+11:56:48 - INFO - Connecting to GLOBAL Snowflake domain
+11:56:48 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+11:56:50 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657678942,
+"os.name" : Windows
+
+11:56:50 - INFO - columns are ['ID', 'ZIPCODE', 'TYPE', 'CITY', 'STATE', 'POPULATION']
+11:56:52 - INFO - file is successfully written in to the external stage
+11:56:52 - INFO - Closing session: 5470147657678942
+11:56:52 - INFO - Canceling all running queries
+11:56:53 - INFO - Closed session: 5470147657678942
+12:54:21 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:54:21 - INFO - Connecting to GLOBAL Snowflake domain
+12:54:21 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:54:23 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683002,
+"os.name" : Windows
+
+12:54:25 - INFO - Closing session: 5470147657683002
+12:54:25 - INFO - Canceling all running queries
+12:54:25 - INFO - Closed session: 5470147657683002
+12:54:48 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:54:48 - INFO - Connecting to GLOBAL Snowflake domain
+12:54:48 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:54:50 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670758,
+"os.name" : Windows
+
+12:54:51 - INFO - Closing session: 5470147657670758
+12:54:51 - INFO - Canceling all running queries
+12:54:51 - INFO - Closed session: 5470147657670758
+12:56:03 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:56:03 - INFO - Connecting to GLOBAL Snowflake domain
+12:56:03 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:56:05 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683006,
+"os.name" : Windows
+
+12:56:06 - INFO - Closing session: 5470147657683006
+12:56:06 - INFO - Canceling all running queries
+12:56:06 - INFO - Closed session: 5470147657683006
+12:56:34 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:56:34 - INFO - Connecting to GLOBAL Snowflake domain
+12:56:34 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:56:37 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670762,
+"os.name" : Windows
+
+12:56:37 - INFO - Closing session: 5470147657670762
+12:56:37 - INFO - Canceling all running queries
+12:56:38 - INFO - Closed session: 5470147657670762
+12:56:56 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:56:56 - INFO - Connecting to GLOBAL Snowflake domain
+12:56:56 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:56:58 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683010,
+"os.name" : Windows
+
+12:56:59 - INFO - Closing session: 5470147657683010
+12:56:59 - INFO - Canceling all running queries
+12:56:59 - INFO - Closed session: 5470147657683010
+12:57:10 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:57:10 - INFO - Connecting to GLOBAL Snowflake domain
+12:57:10 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:57:12 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683014,
+"os.name" : Windows
+
+12:57:13 - INFO - Closing session: 5470147657683014
+12:57:13 - INFO - Canceling all running queries
+12:57:14 - INFO - Closed session: 5470147657683014
+12:58:31 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:58:31 - INFO - Connecting to GLOBAL Snowflake domain
+12:58:31 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:58:33 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683018,
+"os.name" : Windows
+
+12:58:34 - INFO - Closing session: 5470147657683018
+12:58:34 - INFO - Canceling all running queries
+12:58:34 - INFO - Closed session: 5470147657683018
+12:59:37 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+12:59:37 - INFO - Connecting to GLOBAL Snowflake domain
+12:59:37 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+12:59:39 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670766,
+"os.name" : Windows
+
+12:59:40 - INFO - Closing session: 5470147657670766
+12:59:40 - INFO - Canceling all running queries
+12:59:41 - INFO - Closed session: 5470147657670766
+01:00:17 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:00:17 - INFO - Connecting to GLOBAL Snowflake domain
+01:00:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:00:20 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670770,
+"os.name" : Windows
+
+01:00:21 - INFO - Closing session: 5470147657670770
+01:00:21 - INFO - Canceling all running queries
+01:00:21 - INFO - Closed session: 5470147657670770
+01:00:34 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:00:34 - INFO - Connecting to GLOBAL Snowflake domain
+01:00:34 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:00:37 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683022,
+"os.name" : Windows
+
+01:00:38 - INFO - Closing session: 5470147657683022
+01:00:38 - INFO - Canceling all running queries
+01:00:38 - INFO - Closed session: 5470147657683022
+01:04:24 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:04:24 - INFO - Connecting to GLOBAL Snowflake domain
+01:04:24 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:04:26 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670774,
+"os.name" : Windows
+
+01:04:27 - INFO - Closing session: 5470147657670774
+01:04:27 - INFO - Canceling all running queries
+01:04:28 - INFO - Closed session: 5470147657670774
+01:04:54 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:04:54 - INFO - Connecting to GLOBAL Snowflake domain
+01:04:54 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:04:56 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670778,
+"os.name" : Windows
+
+01:04:57 - INFO - Closing session: 5470147657670778
+01:04:57 - INFO - Canceling all running queries
+01:04:57 - INFO - Closed session: 5470147657670778
+01:05:24 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:05:24 - INFO - Connecting to GLOBAL Snowflake domain
+01:05:24 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:05:27 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683026,
+"os.name" : Windows
+
+01:05:28 - INFO - Closing session: 5470147657683026
+01:05:28 - INFO - Canceling all running queries
+01:05:29 - INFO - Closed session: 5470147657683026
+01:09:49 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:09:49 - INFO - Connecting to GLOBAL Snowflake domain
+01:09:49 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:09:51 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657670782,
+"os.name" : Windows
+
+01:09:53 - INFO - Closing session: 5470147657670782
+01:09:53 - INFO - Canceling all running queries
+01:09:53 - INFO - Closed session: 5470147657670782
+01:12:11 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:12:11 - INFO - Connecting to GLOBAL Snowflake domain
+01:12:11 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:12:14 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683030,
+"os.name" : Windows
+
+01:12:15 - INFO - Closing session: 5470147657683030
+01:12:15 - INFO - Canceling all running queries
+01:12:16 - INFO - Closed session: 5470147657683030
+01:12:39 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:12:39 - INFO - Connecting to GLOBAL Snowflake domain
+01:12:39 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:12:41 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683034,
+"os.name" : Windows
+
+01:12:43 - INFO - Closing session: 5470147657683034
+01:12:43 - INFO - Canceling all running queries
+01:12:44 - INFO - Closed session: 5470147657683034
+01:13:06 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+01:13:06 - INFO - Connecting to GLOBAL Snowflake domain
+01:13:06 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+01:13:08 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657683038,
+"os.name" : Windows
+
+01:13:10 - INFO - Closing session: 5470147657683038
+01:13:10 - INFO - Canceling all running queries
+01:13:11 - INFO - Closed session: 5470147657683038
