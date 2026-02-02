@@ -1,0 +1,170 @@
+05:30:55 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:30:55 - INFO - Connecting to GLOBAL Snowflake domain
+05:30:55 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:30:57 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657666646,
+"os.name" : Windows
+
+05:30:58 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:30:58 - INFO - Closing session: 5470147657666646
+05:30:58 - INFO - Canceling all running queries
+05:30:59 - INFO - Closed session: 5470147657666646
+05:34:10 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:34:11 - INFO - Connecting to GLOBAL Snowflake domain
+05:34:11 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:34:13 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662594,
+"os.name" : Windows
+
+05:34:13 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:34:13 - INFO - Closing session: 5470147657662594
+05:34:13 - INFO - Canceling all running queries
+05:34:14 - INFO - Closed session: 5470147657662594
+05:36:43 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:36:43 - INFO - Connecting to GLOBAL Snowflake domain
+05:36:43 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:36:45 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662598,
+"os.name" : Windows
+
+05:36:46 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:36:47 - INFO - Closing session: 5470147657662598
+05:36:47 - INFO - Canceling all running queries
+05:36:47 - INFO - Closed session: 5470147657662598
+05:40:05 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:40:05 - INFO - Connecting to GLOBAL Snowflake domain
+05:40:05 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:40:07 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662606,
+"os.name" : Windows
+
+05:40:08 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:40:09 - INFO - Closing session: 5470147657662606
+05:40:09 - INFO - Canceling all running queries
+05:40:10 - INFO - Closed session: 5470147657662606
+05:40:37 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:40:37 - INFO - Connecting to GLOBAL Snowflake domain
+05:40:37 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:40:39 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657666650,
+"os.name" : Windows
+
+05:40:40 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:40:40 - INFO - Closing session: 5470147657666650
+05:40:40 - INFO - Canceling all running queries
+05:40:41 - INFO - Closed session: 5470147657666650
+05:41:17 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:41:17 - INFO - Connecting to GLOBAL Snowflake domain
+05:41:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:41:19 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662610,
+"os.name" : Windows
+
+05:41:20 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:41:21 - INFO - Closing session: 5470147657662610
+05:41:21 - INFO - Canceling all running queries
+05:41:21 - INFO - Closed session: 5470147657662610
+05:43:02 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:43:02 - INFO - Connecting to GLOBAL Snowflake domain
+05:43:02 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:43:04 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662614,
+"os.name" : Windows
+
+05:43:04 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:43:06 - INFO - Closing session: 5470147657662614
+05:43:06 - INFO - Canceling all running queries
+05:43:07 - INFO - Closed session: 5470147657662614
+05:43:18 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:43:18 - INFO - Connecting to GLOBAL Snowflake domain
+05:43:18 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:43:20 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657666654,
+"os.name" : Windows
+
+05:43:20 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:43:22 - INFO - Closing session: 5470147657666654
+05:43:22 - INFO - Canceling all running queries
+05:43:23 - INFO - Closed session: 5470147657666654
+05:44:17 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:44:17 - INFO - Connecting to GLOBAL Snowflake domain
+05:44:17 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:44:20 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657662618,
+"os.name" : Windows
+
+05:44:20 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:44:22 - INFO - Closing session: 5470147657662618
+05:44:22 - INFO - Canceling all running queries
+05:44:22 - INFO - Closed session: 5470147657662618
+05:47:31 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:47:31 - INFO - Connecting to GLOBAL Snowflake domain
+05:47:31 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:47:33 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657666658,
+"os.name" : Windows
+
+05:47:34 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:47:36 - INFO - Closing session: 5470147657666658
+05:47:36 - INFO - Canceling all running queries
+05:47:37 - INFO - Closed session: 5470147657666658
+05:49:32 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+05:49:32 - INFO - Connecting to GLOBAL Snowflake domain
+05:49:32 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+05:49:34 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657666662,
+"os.name" : Windows
+
+05:49:34 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+05:49:37 - INFO - banana in china is 400
+05:49:37 - INFO - Closing session: 5470147657666662
+05:49:37 - INFO - Canceling all running queries
+05:49:37 - INFO - Closed session: 5470147657666662
+10:18:21 - INFO - Snowflake Connector for Python Version: 4.2.0, Python Version: 3.13.5, Platform: Windows-11-10.0.26200-SP0
+10:18:21 - INFO - Connecting to GLOBAL Snowflake domain
+10:18:21 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+10:18:24 - INFO - Snowpark Session information: 
+"version" : 1.44.0,
+"python.version" : 3.13.5,
+"python.connector.version" : 4.2.0,
+"python.connector.session.id" : 5470147657682966,
+"os.name" : Windows
+
+10:18:24 - INFO - The columns ::: ['Product', 'Amount', 'Country']
+10:18:26 - INFO - banana in china is 400
+10:18:27 - INFO - Closing session: 5470147657682966
+10:18:27 - INFO - Canceling all running queries
+10:18:27 - INFO - Closed session: 5470147657682966

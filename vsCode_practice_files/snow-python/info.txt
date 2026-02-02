@@ -1,0 +1,14 @@
+HOw TO ACCESS SNOWFLAKE IN PYTHON (USING VIRTUAL ENVIRONMENT)
+
+step1: mkdir snow-python
+setp2: cd snow-python
+step3: python -m venv snowvenv
+step4: activate snowenv 
+           ".\snowvenv\Scripts\activate "
+step5: create pip_requirements.txt under snow-python folder
+step6: pip install -r pip_requirements
+step7: >python sf_connect_python.py
+PYARROW
+ARROW DATA()--->in memory colmnar data format
+                efficiently store and process large dataset library
+                mostly datascience,analytical workflow
